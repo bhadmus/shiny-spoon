@@ -1,0 +1,19 @@
+{
+  "name": "ganiyat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "cypress": "^14.4.1",
+    "cypress-fill-command": "^1.0.2",
+    "cypress-real-events": "^1.14.0"
+  }
+}
